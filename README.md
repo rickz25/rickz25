@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ricky Morales
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning in PHP, Javascript, AJAX, RESTFUL API.
+- 🌱 I’m currently learning in PHP,Laravel, Javascript, AJAX, RESTFUL API.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...rickzmorales25@gmail.com
 
